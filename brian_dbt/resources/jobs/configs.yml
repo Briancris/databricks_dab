@@ -1,0 +1,3 @@
+variables:
+  catalog_name:
+    default: forecast_daily_calendar_imperial
